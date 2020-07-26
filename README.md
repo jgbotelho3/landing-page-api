@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+This is an API to Landing page project
