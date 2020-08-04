@@ -6,7 +6,7 @@
   },
   "options": {},
   "attributes": {
-    "totalPrce": {
+    "totalPrice": {
       "type": "integer",
       "required": true,
       "default": 415
@@ -15,7 +15,7 @@
       "type": "integer",
       "required": true
     },
-    "priceInstallments": {
+    "priceInstallment": {
       "type": "integer",
       "required": true
     },
